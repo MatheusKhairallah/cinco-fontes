@@ -1,0 +1,31 @@
+body{
+    background: #002A9C;
+    text-align: center;
+}
+.titulo{
+    text-decoration: underline;
+    color: #F2059F;
+    
+}
+.sub-titulo{
+    color: #F49F30;
+}
+p{
+    color: #19aa0c;
+    text-align: justify;
+}
+#serif{
+    font-family: 'Playfair Display', serif;
+}
+#sans-serif{
+    font-family: 'Russo One', sans-serif;
+}
+#display{
+    font-family: 'Special Elite', cursive;
+}
+#handwritting{
+    font-family: 'Indie Flower', cursive;
+}
+#monospace{
+    font-family: 'VT323', monospace;
+}
